@@ -1,0 +1,34 @@
+body{
+    font-family: "MadokaRunes";
+    font-size:50px;
+    background-image:url("img/back.png")
+    }
+
+    .madoka {
+        font-family: "Yu Mincho";
+        font-size:60px;
+    }
+
+    .madoka span{
+    font-size:118px; 
+    color: #FF8C00;
+  background: -webkit-linear-gradient(0deg, #40E0D0, #FF8C00, #FF0080);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family:"HGS創英角ﾎﾟｯﾌﾟ体"
+    }
+
+    .magireko {
+    font-family: "Meiryo";
+    font-size:20px;
+    }
+    .majomoji {
+        font-size: 30px;
+}
+.footer h1{
+  background-color: black;
+  color:Purple;
+  border-bottom:10px solid Purple;
+  border-top:10px solid Purple;
+  padding:50px 50px;
+}
