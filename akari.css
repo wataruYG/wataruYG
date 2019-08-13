@@ -1,0 +1,20 @@
+body{
+    background-image:url("https://github.com/wataruYG/wataruYG/blob/master/img/akari.png?raw=true")
+    }
+.box4{
+    padding: 8px 19px;
+    margin: 2em 0;
+    color: #2c2c2f;
+    background: #cde4ff;
+    border-top: solid 5px #5989cf;
+    border-bottom: solid 5px #5989cf;
+}
+.box4 p {
+    font-family:"マメロン";
+    font-size: 50px;
+    color:#FF9933;
+    margin: 0; 
+    padding: 0;
+}
+    
+
